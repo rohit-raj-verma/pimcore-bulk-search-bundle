@@ -17,13 +17,11 @@ A Pimcore bundle that enables bulk search functionality in the admin grid listin
 
 ## Installation
 
-### Step 1: Install the Bundle
+### Step 1: Install via Composer
 
 ```bash
-composer require vendor/pimcore-bulk-search-bundle
+composer require rohit-raj-verma/pimcore-bulk-search-bundle
 ```
-
-Or add the bundle manually to your project's `bundles` directory.
 
 ### Step 2: Enable the Bundle
 
