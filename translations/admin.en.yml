@@ -1,0 +1,4 @@
+pimcore_bulk_search_bulk_search_option: 'Bulk Search'
+pimcore_bulk_search_values: 'Values'
+pimcore_bulk_search_hint_one_value_per_line: 'Enter one value per line. The listing will match any of the provided values.'
+

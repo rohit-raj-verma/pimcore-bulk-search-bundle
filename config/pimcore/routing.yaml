@@ -1,0 +1,3 @@
+pimcore_bulk_search_homepage:
+    path:     /pimcore_bulk_search
+    defaults: { _controller: PimcoreBulkSearchBundle\Controller\DefaultController::indexAction }
